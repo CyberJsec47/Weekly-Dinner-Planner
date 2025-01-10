@@ -23,6 +23,6 @@ To create the database of recipes to be selected from I added in an "Add Recipe"
 --- 
 ### Images
 
-<img SRC="Images/webPage.png" width="400" hight="600"><br><br>
+<img SRC="Images/webPage.png" width="600" hight="800"><br><br>
 
 
